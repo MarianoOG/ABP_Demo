@@ -1,2 +1,3 @@
-# APB_Demo
-Creador de proyectos educativos para cualqueir prendizaje Basado en Proyectos
+# Aprendizaje Basado en Proyectos - Demo
+
+Creador de proyectos educativos para cualquier tema.
