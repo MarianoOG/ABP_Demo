@@ -112,8 +112,8 @@ def generar_proyecto(grado, materia, acceso_internet, tema, contenido):
 
 
 def generar_rubrica():
-    prompt = f"Para el proyecto anterior genera una rúbrica de evaluación en formato de tabla con las columnas: " \
-             f"Criterio, Excelente (5), Bueno (4), Regular (3), Insuficiente (2), No logrado (1)."
+    prompt = "Para el proyecto anterior genera una rúbrica de evaluación en formato de tabla con las columnas: " \
+             "Criterio, Excelente (5), Bueno (4), Regular (3), Insuficiente (2), No logrado (1)."
 
     return prompt
 
