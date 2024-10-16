@@ -12,4 +12,4 @@ COPY main.py /app/main.py
 
 # Entrypoint
 EXPOSE 8080
-ENTRYPOINT ["streamlit", "run", "main.py", "--server.port", "8080"]
+ENTRYPOINT ["streamlit", "run", "main.py", "--server.port", "8080", "--server.address", "0.0.0.0"]
